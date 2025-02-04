@@ -2,6 +2,8 @@
 
 ## Lab 3: Implementing CI/CD in AWS with AWS CodeCommit, CodeDeploy, and CodePipeline
 
+![](AWS CICD.drawio.png)
+
 ### Scenario
 A company specializing in online sales wants to automate the deployment of its web application to improve efficiency and reduce human errors. Currently, the deployment process is manual, leading to delays, frequent errors, and a lack of visibility into production versions. To address these issues, the company hires an AWS Cloud Engineer to design and implement a complete CI/CD pipeline on AWS.
 
