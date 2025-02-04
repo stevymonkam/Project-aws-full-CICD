@@ -12,9 +12,9 @@ A company specializing in online sales wants to automate the deployment of its w
 - Automate Continuous Deployment (CD) to allow smooth and uninterrupted application deployment in the production environment.
 - Ensure the security, scalability, and resilience of the CI/CD pipeline.
 
-**Project proposed by Lahda Biassou Alphonsine**  
-**Costs:** Free tier  
-**Estimated completion time:** 45 minutes  
+**Project proposed stevy monkam**  
+
+
 
 ## Solution Architecture
 
